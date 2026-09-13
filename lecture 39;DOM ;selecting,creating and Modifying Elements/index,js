@@ -1,0 +1,17 @@
+<!-- let h1 = Document.getElementId("hi")
+
+let h1 = document.querySelector("hi")
+let h1 = document.querySelector(."hi")
+let h1 = document.querySelector(#"hi")
+let h1 = document.querySelectorAll (#"hi")
+
+
+
+let p = document.querySelector("p")
+p.textcontent(Hello Vandana)
+p.innerHtml ="<h1>Hii</h1>" -->
+
+
+
+p.setAttribute("style".{"background-color="red})
+p.setAttribute("style")

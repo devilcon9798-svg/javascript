@@ -1,0 +1,35 @@
+.main{
+background-color: rgb(72, 137, 164);
+   height: 540px; 
+   width: 1000px;
+}
+.row1{
+
+background-color: rgb(60, 175, 137);
+   height: 100px; 
+   width: 1000px;
+   text-align: center;
+   color: white;
+
+}
+.row2a1{
+color : greenyellow;
+height: 40px;
+width: 1000px;
+float: left ;
+}
+.row3a1{
+color : rgb(190, 92, 112);
+height: 40px;
+width: 1000px;
+background-color: brown;
+float: top;
+}
+
+
+
+
+
+
+
+
